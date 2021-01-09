@@ -1,9 +1,9 @@
-# readme_generator
+# Sample
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) 
 
 ## Description
-    this project creates a readme.md for the user
+    N/a
 ### Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,13 +12,13 @@
 - [Questions](#questions)
 
 ### Installation
-    inquirer and fs required for functionality 
+    n/a
 ### Usage
-    MIT
+    n/a
 ### Contribution
-    Kevin Hsieh
+    n/a
 ### Tests
-    N/A
+    n/a
 ### Questions
-    Github: khsieh95
-    Email: something@gmail.com
+    Github: n/a
+    Email: n/a
